@@ -1,5 +1,15 @@
-# 💫 HI! There
-💫 I’m Vaibhav Tamang<br>💻 I build things with code.<br>🔧 Mostly working with Python, but always exploring new tech.<br>📂 Here you'll find Machine Learning and Full stack website code.<br>🌱 Currently learning Generative AI and Prompt Engineering.<br>🧠 Always up for a good challenge or a cool collaboration.
+<div align="center">
+
+# 💫 Hi There!
+
+💫 I’m **Vaibhav Tamang**  
+💻 I build things with code.  
+🔧 Mostly working with **Python**, but always exploring new tech.  
+📂 Here you'll find **Machine Learning** projects and **Full Stack** web apps.  
+🌱 Currently learning **Generative AI** and **Prompt Engineering**.  
+🧠 Always up for a good challenge or a cool collaboration.  
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/pacman-contribution-graph-dark.svg">
