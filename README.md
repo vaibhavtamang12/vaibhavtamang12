@@ -1,6 +1,7 @@
 <div align="center">
 
 # 💫 Hi There!
+</div>
 
 💫 I’m **Vaibhav Tamang**  
 💻 I build things with code.  
@@ -9,7 +10,6 @@
 🌱 Currently learning **Generative AI** and **Prompt Engineering**.  
 🧠 Always up for a good challenge or a cool collaboration.  
 
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/pacman-contribution-graph-dark.svg">
