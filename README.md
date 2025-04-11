@@ -1,8 +1,10 @@
 <div align="center">
 
 # 💫 Hi There!
-</div>
-
+<table>
+  <tr>
+    <td align="left" width="60%">
+      
 💫 I’m **Vaibhav Tamang**  
 💻 I build things with code.  
 🔧 Mostly working with **Python**, but always exploring new tech.  
@@ -10,12 +12,12 @@
 🌱 Currently learning **Generative AI** and **Prompt Engineering**.  
 🧠 Always up for a good challenge or a cool collaboration.  
 
-
-###
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
-
+  </td>
+    <td align="center" width="40%">
+      <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+    </td>
+  </tr>
+</table>
 ###
 <br>
 <br>
