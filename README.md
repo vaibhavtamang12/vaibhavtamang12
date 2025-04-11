@@ -1,27 +1,22 @@
 <div align="center">
 
 # 💫 Hi There!
-<table>
-  <tr>
-    <td align="left" width="60%">
-      
-💫 I’m **Vaibhav Tamang**  
-💻 I build things with code.  
-🔧 Mostly working with **Python**, but always exploring new tech.  
-📂 Here you'll find **Machine Learning** projects and **Full Stack** web apps.  
-🌱 Currently learning **Generative AI** and **Prompt Engineering**.  
-🧠 Always up for a good challenge or a cool collaboration.  
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-  </td>
-    <td align="center" width="40%">
-      <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-    </td>
-  </tr>
-</table>
-###
-<br>
-<br>
+  <div style="flex: 1; min-width: 300px; max-width: 600px;">
+    <p>💫 I’m <strong>Vaibhav Tamang</strong><br>
+    💻 I build things with code.<br>
+    🔧 Mostly working with <strong>Python</strong>, but always exploring new tech.<br>
+    📂 Here you'll find <strong>Machine Learning</strong> projects and <strong>Full Stack</strong> web apps.<br>
+    🌱 Currently learning <strong>Generative AI</strong> and <strong>Prompt Engineering</strong>.<br>
+    🧠 Always up for a good challenge or a cool collaboration.</p>
+  </div>
 
+  <div style="flex: 1; text-align: center; min-width: 200px;">
+    <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  </div>
+
+</div>
 ###
 
 # 💻 Tech Stack:
