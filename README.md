@@ -4,14 +4,12 @@
 <table>
   <tr>
     <td>
-
       <p>💫 I’m <strong>Vaibhav Tamang</strong><br>
       💻 I build things with code.<br>
       🔧 Mostly working with <strong>Python</strong>, but always exploring new tech.<br>
       📂 Here you'll find <strong>Machine Learning</strong> projects and <strong>Full Stack</strong> web apps.<br>
       🌱 Currently learning <strong>Generative AI</strong> and <strong>Prompt Engineering</strong>.<br>
       🧠 Always up for a good challenge or a cool collaboration.</p>
-
     </td>
     <td align="center">
       <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
