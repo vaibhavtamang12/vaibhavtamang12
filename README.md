@@ -1,24 +1,23 @@
 <div align="center">
 
 # 💫 Hi There!
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td>
 
-  <!-- Text on the left -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <p>💫 I’m <strong>Vaibhav Tamang</strong><br>
-    💻 I build things with code.<br>
-    🔧 Mostly working with <strong>Python</strong>, but always exploring new tech.<br>
-    📂 Here you'll find <strong>Machine Learning</strong> projects and <strong>Full Stack</strong> web apps.<br>
-    🌱 Currently learning <strong>Generative AI</strong> and <strong>Prompt Engineering</strong>.<br>
-    🧠 Always up for a good challenge or a cool collaboration.</p>
-  </div>
+      <p>💫 I’m <strong>Vaibhav Tamang</strong><br>
+      💻 I build things with code.<br>
+      🔧 Mostly working with <strong>Python</strong>, but always exploring new tech.<br>
+      📂 Here you'll find <strong>Machine Learning</strong> projects and <strong>Full Stack</strong> web apps.<br>
+      🌱 Currently learning <strong>Generative AI</strong> and <strong>Prompt Engineering</strong>.<br>
+      🧠 Always up for a good challenge or a cool collaboration.</p>
 
-  <!-- Image on the right -->
-  <div style="flex: 1; text-align: center; min-width: 200px;">
-    <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-  </div>
-
-</div>
+    </td>
+    <td align="center">
+      <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+    </td>
+  </tr>
+</table>
 
 
 # 💻 Tech Stack:
