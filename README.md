@@ -42,6 +42,14 @@
 <img src="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavtamang12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
