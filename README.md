@@ -37,7 +37,6 @@
 </div>
 
 <br clear="both">
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/pacman-contribution-graph-dark.svg">
