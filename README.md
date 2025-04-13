@@ -40,8 +40,6 @@
 <img src="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/snake.svg" alt="Snake animation" />
 
 ###
-###
-###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavtamang12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
