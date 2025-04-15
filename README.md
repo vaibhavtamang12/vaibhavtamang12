@@ -1,5 +1,5 @@
 <div align="center">
-
+![Header](./github-header-image.png)
 # 💫 Konnichiwa!
 </div>
   <p>💫 I’m <strong>Vaibhav Tamang</strong><br>
