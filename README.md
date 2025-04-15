@@ -38,8 +38,6 @@
 
 <br clear="both">
 
-###
-<img src="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/snake.svg" alt="Snake animation" />
 
 ###
 ## 🏆 GitHub Trophies
