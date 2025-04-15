@@ -36,8 +36,9 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavtamang12&theme=dark&hide_border=false" />
 </div>
 
-<br clear="both">
+<img src="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/snake.svg" alt="Snake animation" />
 
+###
 
 ###
 ## 🏆 GitHub Trophies
