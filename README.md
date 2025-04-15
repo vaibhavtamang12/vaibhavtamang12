@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hi There!
+# 💫 Konnichiwa!
 </div>
   <p>💫 I’m <strong>Vaibhav Tamang</strong><br>
   💻 I build things with code.<br>
