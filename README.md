@@ -39,8 +39,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavtamang12&theme=dark&hide_border=false" />
 </div>
 
-<br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/pacman-contribution-graph.svg">
