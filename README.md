@@ -40,23 +40,17 @@
 </div>
 
 <br />
-
-<table>
-    <tr>
-      <td>
-        <picture>
+###
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vaibhavtamang12/vaibhavtamang12/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
-   </td>
-      <td>
-        ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavtamang12&theme=react-dark)
-      </td>
-    </tr>
-  </table>
+###
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavtamang12&theme=react-dark)
 
 ###
 
