@@ -36,7 +36,7 @@
     </tr>
   </table>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavtamang12&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavtamang12&theme=radical&hide_border=false" />
 </div>
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavtamang12&theme=react-dark)
