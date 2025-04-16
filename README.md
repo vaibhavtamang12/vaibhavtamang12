@@ -28,10 +28,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=vaibhavtamang12&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=vaibhavtamang12&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavtamang12&theme=dark&hide_border=false&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavtamang12&theme=dracula&hide_border=false&layout=compact" />
       </td>
     </tr>
   </table>
@@ -39,9 +39,10 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavtamang12&theme=dracula&hide_border=false" />
 </div>
 
+<br />
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavtamang12&theme=react-dark)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavtamang12&show_icons=true&theme=radical)
 
 ###
 
