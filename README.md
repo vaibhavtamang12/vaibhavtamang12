@@ -44,7 +44,19 @@
 ###
 ###
 
-![GitHub Contribution Graph](https://contribution-graph-ohi6.onrender.com/api/graph?username=vaibhavtamang12)
+
+> 🟩 = High activity  
+> 🟨 = Medium  
+> 🟧 = Low  
+> ⬜ = No contributions
+
+---
+
+If you'd like a **real contribution graph**, you can embed it using this:
+
+### 🖼 Real GitHub Contribution Chart
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavtamang12&theme=github-compact)
 
 
 ###
