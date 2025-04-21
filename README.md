@@ -44,7 +44,7 @@
 ###
 ###
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavtamang12&theme=react-dark)
+![GitHub Contribution Graph](https://contribution-graph-ohi6.onrender.com/api/graph?username=vaibhavtamang12&v=1)
 
 
 ###
