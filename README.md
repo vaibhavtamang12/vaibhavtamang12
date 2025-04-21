@@ -44,7 +44,7 @@
 ###
 ###
 
-![GitHub Contribution Graph](https://contribution-graph-ohi6.onrender.com/api/graph?username=vaibhavtamang12&v=1)
+![GitHub Contribution Graph](https://contribution-graph-ohi6.onrender.com/api/graph?username=vaibhavtamang12)
 
 
 ###
