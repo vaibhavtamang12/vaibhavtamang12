@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=vaibhavtamang12)
 <div align="center">
 
   # 💫 Konnichiwa!
