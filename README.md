@@ -187,6 +187,24 @@
 
 <h2> Meet the Maker (of this Repo)</h2>
 <div align="center">
-  I'm <strong>Vaibhav Tamang</strong>, a junior year Data Engineering student:
- 💡 <em>Technology</em>  •   🏗 <em>Engineering</em>  •  🎨 <em>Databases</em>
+  I'm <strong>Vaibhav Tamang</strong>, a junior year Data Engineering student: <br/>
+ 💡 <em>Technology</em>  •   🏗 <em>Engineering</em>  •  🎨 <em>Databases</em>  🔬  <em>AI</em>
 </div>
+As a junior-year student specializing in AI, machine learning, and data engineering, I’m passionate about building at the intersection of technology and creativity. I'm focused on learning how to design intelligent systems that not only perform well but also respect ethical boundaries and enrich human experiences.
+
+I’m especially interested in how AI can enhance creativity, drive innovation, and unlock new ways of thinking. My goal is to develop responsible, impactful technology that contributes to real-world progress and empowers people—not replaces them.
+
+Professional Persona
+
+- Builder of Smart Systems: As a third-year student in AI, machine learning, and data engineering, I’m driven by the challenge of designing systems that learn, adapt, and solve real problems. I’m especially drawn to projects where code, data, and purpose intersect.
+
+- Driven by Data: I love making sense of messy data. Whether it's cleaning pipelines, structuring databases, or optimizing models, I focus on turning raw information into insights that matter. Data isn’t just numbers to me—it’s potential.
+
+- Learning in Action: I believe in learning by building. From class projects to hackathons, I seek out hands-on opportunities to apply algorithms, test architectures, and see how theory plays out in the real world. Mistakes are part of the process, and every iteration moves me forward.
+
+- Team-First Mentality: I enjoy working in collaborative environments where ideas bounce fast and feedback is honest. I’m comfortable taking the lead or backing up my teammates—whatever moves the project forward.
+
+- Tech with Purpose: I'm especially interested in how AI can improve lives—from streamlining everyday tasks to supporting smarter decisions in critical fields like education, accessibility, and healthcare. Technology should lift people up, not lock them out.
+
+- Language + Logic: I have a strong interest in natural language processing and how machines understand human communication. It's where my love of language meets my passion for logic—and it’s one of the most exciting frontiers in AI today.
+
