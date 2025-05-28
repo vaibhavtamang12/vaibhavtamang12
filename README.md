@@ -16,9 +16,9 @@
 
 ###
 
-## 🏆 GitHub Stats
+## 🏆 GitHub Trophies
 
-![vaibhavtamang12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavtamang12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavtamang12)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 <h1>My Toolbox</h1>
 <details>
