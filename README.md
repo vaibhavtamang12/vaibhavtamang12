@@ -8,17 +8,7 @@
   # 💫 Konnichiwa!
 
 </div>
-  <p>💫 I’m <strong>Vaibhav Tamang</strong><br>
-  💻 I build things with code.<br>
-  🔧 Mostly working with <strong>Python</strong>, but always exploring new tech.<br>
-  📂 Here you'll find <strong>Machine Learning</strong> and <strong>Full Stack</strong> projects.<br>
-  🌱 Currently learning <strong>Generative AI</strong> and <strong>Prompt Engineering</strong>.<br>
-  🧠 Always up for a good challenge or a cool collaboration.</p>
-
-
-###
-
-
+  
 
 ###
 
