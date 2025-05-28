@@ -183,3 +183,9 @@ Professional Persona
 
 - Language + Logic: I have a strong interest in natural language processing and how machines understand human communication. It's where my love of language meets my passion for logic—and it’s one of the most exciting frontiers in AI today.
 
+
+<br />
+Let's Connect!
+I am always eager to learn something new, collaborate on exciting projects, or discuss any of my works. Don't hesitate to reach out if you’re curious or have something interesting to share!
+
+---
