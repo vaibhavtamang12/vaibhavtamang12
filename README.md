@@ -19,7 +19,7 @@
 
 ## 🏆 GitHub Stats
 <div align="center">
-  ![vaibhavtamang12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavtamang12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![vaibhavtamang12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavtamang12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 ---
 <h1>My Toolbox</h1>
