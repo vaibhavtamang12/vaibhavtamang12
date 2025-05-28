@@ -112,6 +112,33 @@
 <br>
 </details>
 
+###### Tools
+> ![MIDI Badge](https://img.shields.io/badge/-MIDI-3B4252?style=flat&logo=midi&logoColor=81A1C1)
+> ![Yamaha Corporation Badge](https://img.shields.io/badge/-Yamaha%20Corporation-3B4252?style=flat&logo=yamahacorporation&logoColor=B48EAD)
+> ![Audio-Technica Badge](https://img.shields.io/badge/-Audio%20Technica-3B4252?style=flat&logo=audiotechnica&logoColor=BF616A)
+
+###### AI
+> ![AIVA Badge](https://img.shields.io/badge/-AIVA-3B4252?style=flat&logo=aiva&logoColor=FF69B4)
+> ![Suno Badge](https://img.shields.io/badge/-Suno-3B4252?style=flat&logo=suno&logoColor=A3BE8C)
+> ![Udio Badge](https://img.shields.io/badge/-Udio-3B4252?style=flat&logo=udio&logoColor=00FFFF)
+
+<br>
+</details>
+
+
+<details>
+  <summary><strong> Microcontrollers & IoT </strong> <sub> (click to expand) </sub></summary>
+  <br>
+
+![Raspberry Pi Badge](https://img.shields.io/badge/-Raspberry%20Pi-3B4252?style=flat&logo=raspberrypi&logoColor=BF616A)
+![Arduino Badge](https://img.shields.io/badge/-Arduino-3B4252?style=flat&logo=arduino&logoColor=A3BE8C)
+
+<br>
+</details>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <details>
   <summary><strong> Testing </strong> <sub> (click to expand) </sub></summary>
@@ -156,4 +183,10 @@
 <br>
 </details>
 
+---
 
+<h2> Meet the Maker (of this Repo)</h2>
+<div align="center">
+  I'm <strong>Vaibhav Tamang</strong>, a junior year Data Engineering student:
+ 💡 <em>Technology</em>  •   🏗 <em>Engineering</em>  •  🎨 <em>Databases</em>
+</div>
