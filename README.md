@@ -112,33 +112,6 @@
 <br>
 </details>
 
-###### Tools
-> ![MIDI Badge](https://img.shields.io/badge/-MIDI-3B4252?style=flat&logo=midi&logoColor=81A1C1)
-> ![Yamaha Corporation Badge](https://img.shields.io/badge/-Yamaha%20Corporation-3B4252?style=flat&logo=yamahacorporation&logoColor=B48EAD)
-> ![Audio-Technica Badge](https://img.shields.io/badge/-Audio%20Technica-3B4252?style=flat&logo=audiotechnica&logoColor=BF616A)
-
-###### AI
-> ![AIVA Badge](https://img.shields.io/badge/-AIVA-3B4252?style=flat&logo=aiva&logoColor=FF69B4)
-> ![Suno Badge](https://img.shields.io/badge/-Suno-3B4252?style=flat&logo=suno&logoColor=A3BE8C)
-> ![Udio Badge](https://img.shields.io/badge/-Udio-3B4252?style=flat&logo=udio&logoColor=00FFFF)
-
-<br>
-</details>
-
-
-<details>
-  <summary><strong> Microcontrollers & IoT </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-![Raspberry Pi Badge](https://img.shields.io/badge/-Raspberry%20Pi-3B4252?style=flat&logo=raspberrypi&logoColor=BF616A)
-![Arduino Badge](https://img.shields.io/badge/-Arduino-3B4252?style=flat&logo=arduino&logoColor=A3BE8C)
-
-<br>
-</details>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 <details>
   <summary><strong> Testing </strong> <sub> (click to expand) </sub></summary>
@@ -190,6 +163,8 @@
   I'm <strong>Vaibhav Tamang</strong>, a junior year Data Engineering student: <br/>
  💡 <em>Technology</em>  •   🏗 <em>Engineering</em>  •  🎨 <em>Databases</em>  🔬  <em>AI</em>
 </div>
+<br/>
+<br/>
 As a junior-year student specializing in AI, machine learning, and data engineering, I’m passionate about building at the intersection of technology and creativity. I'm focused on learning how to design intelligent systems that not only perform well but also respect ethical boundaries and enrich human experiences.
 
 I’m especially interested in how AI can enhance creativity, drive innovation, and unlock new ways of thinking. My goal is to develop responsible, impactful technology that contributes to real-world progress and empowers people—not replaces them.
