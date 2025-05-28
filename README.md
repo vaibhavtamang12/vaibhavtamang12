@@ -17,9 +17,8 @@
 ###
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaibhavtamang12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+## 🏆 GitHub Stats
+![vaibhavtamang12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavtamang12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 <h1>My Toolbox</h1>
 <details>
