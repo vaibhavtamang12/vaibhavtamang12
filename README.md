@@ -20,5 +20,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavtamang12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
