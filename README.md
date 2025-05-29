@@ -189,23 +189,6 @@ I am always eager to learn something new, collaborate on exciting projects, or d
 
 ---
 
-<h2>Note (worthy Projects)</h2>
-
-<details>
-  <summary><strong> Websites </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fvaibhavtamang12%2FDoctor_Boking_Appointment)
-
-
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fvaibhavtamang12%2FForest-Resources-CHE-Project)
-
-
-<br>
-</details>
-
----
-
 <h3>Learning Lab</h3>
 <div align="center">
   But First This
