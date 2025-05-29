@@ -217,21 +217,8 @@ Most of the projects you'll find here are part of my journey as a second-year AI
 ##### Projects in my current field of education:
  
 <div align="center">
-  <a href="https://github.com/vaibhavtamang12/predict_calories_burn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12k&repo=predict_calories_burn" alt="Predict Calories Burn">
-  </a>
-  
-  <a href="https://github.com/vaibhavtamang12/apache_spark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12k&repo=apache_spark" alt="apache_spark">
-  </a>
 
-  <a href="https://github.com/vaibhavtamang12/bagpack_price_prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12k&repo=bagpack_price_prediction" alt="bagpack_price_prediction">
-  </a>
-  
-  <a href="https://github.com/vaibhavtamang12/tennis_analysis_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12k&repo=tennis_analysis_system" alt="Tennis Analysis System">
-  </a>
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12&repo=predict_calories_burn)](https://github.com/vaibhavtamang12/predict_calories_burn)
 </div>
 
 ##### Exploration of my personal interests:
