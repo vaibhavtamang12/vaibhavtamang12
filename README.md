@@ -189,4 +189,50 @@ I am always eager to learn something new, collaborate on exciting projects, or d
 
 ---
 
+<h2>Note (worthy Projects)</h2>
+
+<details>
+  <summary><strong> Websites </strong> <sub> (click to expand) </sub></summary>
+  <br>
+
+  ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fvaibhavtamang12%2FDoctor_Boking_Appointment)
+
+
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fvaibhavtamang12%2FForest-Resources-CHE-Project)
+
+
+<br>
+</details>
+
+---
+
+<h3>Learning Lab</h3>
+<div align="center">
+  But First This
+</div>
+Most of the projects you'll find here are part of my journey as a second-year AI, ML, and Data Engineering student. This GitHub is my sandbox 🧠🧪—a space for experimenting with ideas, learning through building, and exploring the tools that shape intelligent systems. It's less about perfection and more about progress 🚀.
+
+#### current focus:
+
+##### Projects in my current field of education:
+ 
+<div align="center">
+  <a href="https://github.com/vaibhavtamang12/predict_calories_burn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12k&repo=predict_calories_burn" alt="Predict Calories Burn">
+  </a>
+  
+  <a href="https://github.com/vaibhavtamang12/apache_spark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12k&repo=apache_spark" alt="apache_spark">
+  </a>
+
+  <a href="https://github.com/vaibhavtamang12/bagpack_price_prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12k&repo=bagpack_price_prediction" alt="bagpack_price_prediction">
+  </a>
+  
+  <a href="https://github.com/vaibhavtamang12/tennis_analysis_system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12k&repo=tennis_analysis_system" alt="Tennis Analysis System">
+  </a>
+</div>
+
+##### Exploration of my personal interests:
 
