@@ -199,7 +199,12 @@ Most of the projects you'll find here are part of my journey as a second-year AI
 
 ##### Projects in my current field of education:
  
-<div align="center">
+<div align="center"; display: grid;
+      grid-template-columns: 1fr 1fr; 
+      grid-template-rows: 1fr 1fr;    
+      gap: 10px;                      
+      width: 200px;                   
+      height: 200px;>
 
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12&repo=predict_calories_burn)](https://github.com/vaibhavtamang12/predict_calories_burn)
 
