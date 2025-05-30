@@ -202,6 +202,17 @@ Most of the projects you'll find here are part of my journey as a second-year AI
 <div align="center">
 
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12&repo=predict_calories_burn)](https://github.com/vaibhavtamang12/predict_calories_burn)
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12&repo=predict_calories_burn)](https://github.com/vaibhavtamang12/apache_kafka_basics)
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12&repo=predict_calories_burn)](https://github.com/vaibhavtamang12/bagpack_price_prediction)
+
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavtamang12&repo=predict_calories_burn)](https://github.com/vaibhavtamang12/tennis_analysis_system)
+
+
+
+
+
 </div>
 
 ##### Exploration of my personal interests:
